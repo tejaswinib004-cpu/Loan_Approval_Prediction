@@ -1,3 +1,6 @@
-# Loan Approval Prediction
-
-This project predicts loan approval using Logistic Regression and Streamlit.
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
